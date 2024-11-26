@@ -117,4 +117,3 @@ The alignment plot has been generated and saved as `alignment_plot.pdf`. You can
 [View the alignment plot](alignment_plot.pdf)
 
 
-
