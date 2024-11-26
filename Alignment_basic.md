@@ -110,4 +110,7 @@ alignment2Fasta(myAlignment, 'out.fasta')
 3. Update file paths according to your system structure.
 4. Run the Python script first to fetch the sequences, then run the R script for alignment.
 
+![image](https://github.com/user-attachments/assets/2919ae8f-5eec-44e5-96e3-1963f8a9786e)
+
+
 
